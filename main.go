@@ -35,6 +35,6 @@ func main() {
 	if isPrime(num) {
 		fmt.Printf("%d is prime.\n", num)
 	} else {
-		fmt.Printf("%d não é primo.\n", num)
+		fmt.Printf("%d isn't prime.\n", num)
 	}
 }
